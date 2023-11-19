@@ -1,3 +1,36 @@
-h1{
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f3d57b;
+    color: #013C58;
+}
+
+.app-title{
     text-align: center;
+}
+
+.inputbox{
+   padding: 2vh;
+   width: 40%;
+   border-radius: 3vh;
+   font-size: 4vh;
+   margin-top: 4vh;
+   margin-bottom: 4vh;
+   margin-left:30%;
+   background-color:#f5e3c6;
+   font-weight:bolder;
+   color: black;
+   border: 3px solid #00537A;
+}
+
+.search-btn{
+    padding: 2vh;
+    font-size: 4vh;
+    border-radius: 3vh;
+    margin: 2vh;
+}
+
+.center-text{
+    text-align: center;
+    font-weight: bolder;
 }
